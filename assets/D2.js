@@ -7,10 +7,10 @@
 let number1= 1;
 let number2= 3;
 
-if(number1 => number2){
+if(number1 > number2){
   console.log('il numero è maggiore');
 }
-else if (number1 == numer2){
+else if (number1 == number2){
   console.log('i numeri sono uguali');
 }
 else{
@@ -138,13 +138,13 @@ if (c > b && b > c){
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-let object = 23
+let object = 23;
 
 if (typeof object === 'number'){
-  console.log('il valore è un numero')
+  console.log('il valore è un numero');
 }
 else {
-  console.log('il valore non è un numero')
+  console.log('il valore non è un numero');
 }
 
 /* ESERCIZIO 9
@@ -153,14 +153,14 @@ else {
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-let number7 = 6
+let number7 = 6;
 
 if (number7%2 === 0){
-  console.log('il numero è pari')
+  console.log('il numero è pari');
 
 }
 else{
-  console.log('il numero è dispari')
+  console.log('il numero è dispari');
 }
 
 /* ESERCIZIO 10
@@ -177,16 +177,16 @@ else{
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-let val = 7
+let val = 7;
 
 if (val < 5){
-  console.log("meno di 5")
+  console.log("meno di 5");
 }
 else if (val < 10){
-  console.log ("meno di 10")
+  console.log ("meno di 10");
 }
 else{
-  console.log ("uguale a 10 o maggiore")
+  console.log ("uguale a 10 o maggiore");
 }
 
 /* ESERCIZIO 11
